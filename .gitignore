@@ -1,0 +1,50 @@
+# Compiled class file
+*.class
+
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.rdb
+*.persistence.xml
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+
+# User-specific stuff:
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+
+*mvn*
+HELP.md
+
+bin/
+*.classpath
+*.project
+*.springBeans
+*.swp
+*.DS_Store
+*.log
+*.orig
+.settings/
+target/
+build/
+.backup/
+.metadata/
+jacoco-ut.exec
+jacoco-it.exec
+application.properties
+*.conf
+generated-sources
+.idea
+*.iml
+
+# IntelliJ
+out/
